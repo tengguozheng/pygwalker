@@ -89,7 +89,7 @@ import pandas as pd
 import pygwalker as pyg
 ```
 
-您可以在不中断现有工作流程的情况下使用pygwalker。例如，您可以通过记载你的DataFrame来调用Graphic Walker，就像这样：
+您可以在不中断现有工作流程的情况下使用Pygwalker。例如，您可以通过加载DataFrame来调用Graphic Walker，就像这样：
 
 ```python
 df = pd.read_csv('./bike_sharing_dc.csv')
